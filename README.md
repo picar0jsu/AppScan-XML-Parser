@@ -3,7 +3,7 @@ A simple XML parser to deal with AppScan's cancerous reporting format. The scrip
 
 # Usage
 ```
-./run.ps1 <APPSCAN>.xml
+.\run.ps1 <APPSCAN>.xml
 ```
 - Download the following xmlParser.ps1.
 - Export the scan as XML. Save the file to disk.
