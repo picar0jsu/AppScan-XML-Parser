@@ -1,6 +1,6 @@
 # v 1.0
 # Author: Jonah Tan
-# ./AppScanXMLParser.ps1 <APPSCAN>.xml
+# .\AppScanXMLParser.ps1 <APPSCAN>.xml
 
 [xml]$xmlFileContent = Get-Content $args[0]
 
