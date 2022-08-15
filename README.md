@@ -1,9 +1,9 @@
-# AppScan-XML-Parser
+# AppScanXMLParser.ps1
 A simple XML parser to deal with AppScan's cancerous reporting format. The script is currently VERY beta, so please do not be surprised if there are issues.
 
 # Usage
 ```
-./xmlParser.ps1 <APPSCAN>.xml
+./AppScanXMLParser.ps1 <APPSCAN>.xml
 ```
 - Download the following xmlParser.ps1.
 - Export the scan as XML. Save the file to disk.
